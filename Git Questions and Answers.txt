@@ -1,0 +1,32 @@
+For Reference: https://www.toptal.com/git/interview-questions
+What is the difference between git pull and git fetch?
+How do you revert a commit that has already been pushed and made public?
+How do you squash last N commits into a single commit?
+How do you find a list of files that has changed in a particular commit?
+How do you setup a script to run every time a repository receives new commits through push?
+What is git bisect? How can you use it to determine the source of a (regression) bug?
+What are the different ways you can refer to a commit?
+What is git rebase and how can it be used to resolve conflicts in a feature branch before merge?
+When do you use "git rebase" instead of "git merge"?
+How do you configure a Git repository to run code sanity checking tools right before making commits, and preventing them if the test fails?
+One of your teammates accidentally deleted a branch, and has already pushed the changes to the central git repo. There are no other git repos, and none of your other teammates had a local copy. How would you recover this branch?
+How can you copy a commit made in one branch to another (e.g. a hot fix commit from released branch to current development branch)?	
+How do you cherry-pick a merge commit?
+What is a conflict in git and how can it be resolved?
+How do you integrate the all branches in Git?
+What kind of organizations you was created?
+what is fast forward merging?
+
+For Reference: https://www.codementor.io/@alexershov/11-painful-git-interview-questions-and-answers-you-will-cry-on-lybbrqhvs
+
+What is the difference between "git pull" and "git fetch"?
+How to revert previous commit in git?
+Tell me the difference between HEAD, working tree and index, in Git?
+When should I use "git stash"?
+How to remove a file from git without removing it from your file system?
+
+For Reference: https://codingcompiler.com/git-interview-questions-answers/
+
+How to cancel the previous commit?
+ When should git rebase be used instead of git merge?
+ 
